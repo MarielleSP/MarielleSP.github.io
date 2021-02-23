@@ -7,9 +7,9 @@ problems.
 
 ### Data Science Portfolio:
 1. [Rate Neighborhoods based on User Preferences](https://mariellesp.github.io/Rate-Neighborhoods/)   
-        <img src="ratings02.PNG" alt="Static png image for display" style="float:right; width:200">
+        <img src="ratings02.PNG" alt="Static png image for display" style="float:right; width:20px">
    
    
 
 ### Physical Sciences Portfolio:
-To see my list of peer-reviewed scientific articles, please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=F08h7FwAAAAJ&view_op=list_works&sortby=pubdate).
+To see my list of peer-reviewed scientific articles, please visit my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=F08h7FwAAAAJ&view_op=list_works&sortby=pubdate).
