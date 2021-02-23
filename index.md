@@ -6,8 +6,10 @@ diffusion models and molecular dynamics. I enjoy collaborating with a diverse te
 problems. 
 
 ### Data Science Portfolio:
-1. [Rate Neighborhoods based on User Preferences](https://mariellesp.github.io/Rate-Neighborhoods/)   <img src="ratings02.PNG" align="right" width="200">
-<br clear="left"/> 
+1. [Rate Neighborhoods based on User Preferences](https://mariellesp.github.io/Rate-Neighborhoods/)   
+         <img src="ratings02.PNG" align="right" width="200">
+   Completed as a capstone project for the IBM Data Science Professional Certificate. The preferences in neighborhood features for two users are given. Each neighborhood in New Orleans, LA, USA is evalated based on the number of desired venue types in Foursquare. A personalized score for each neighborhood is generated. 
+<br clear="right"/> 
    
 
 ### Physical Sciences Portfolio:
