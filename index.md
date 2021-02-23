@@ -7,7 +7,12 @@ problems.
 
 ### Data Science Portfolio:
 1. [Rate Neighborhoods based on User Preferences](https://mariellesp.github.io/Rate-Neighborhoods/)   
-        <img src="ratings02.PNG" align="right"; width:"200">
+        <center>
+            <img src="ratings02.PNG">
+        </center>
+    
+    
+    <img src="ratings02.PNG" align="right" width:"200">
    
    
 
