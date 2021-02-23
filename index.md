@@ -6,8 +6,8 @@ diffusion models and molecular dynamics. I enjoy collaborating with a diverse te
 problems. 
 
 ### Data Science Portfolio:
-1. [Rate Neighborhoods based on User Preferences](https://mariellesp.github.io/Rate-Neighborhoods/)  
-        <img src="ratings01.PNG" alt="Static png image for display" style="float: right;" width="200">
+1. | [Rate Neighborhoods based on User Preferences](https://mariellesp.github.io/Rate-Neighborhoods/)   | 
+        <img src="ratings01.PNG" alt="Static png image for display" style="float: right;" width="200"> |
 
    
 
