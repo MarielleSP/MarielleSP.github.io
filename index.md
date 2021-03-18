@@ -1,6 +1,6 @@
 # Marielle Soniat Pointer
 
-##### About Me
+#### About Me
 I am interested in using data science and machine learning to drive development of new technologies based on 
 novel scientific discoveries. My previous research was in computational physical chemistry including reaction-
 diffusion models and molecular dynamics. I enjoy collaborating with a diverse team on intellectually stimulating
