@@ -11,7 +11,7 @@ problems.
 ---
 
 ### Data Science Portfolio:
-1. [Rate Neighborhoods based on User Preferences](https://mariellesp.github.io/Rate-Neighborhoods/)   
+[Rate Neighborhoods based on User Preferences](https://mariellesp.github.io/Rate-Neighborhoods/)   
          <img src="./images/ratings02.PNG" align="right" width="200">
    Completed as a capstone project for the IBM Data Science Professional Certificate. The preferences in neighborhood features for two users are given. Each neighborhood in New Orleans, LA, USA is evalated based on the number of desired venue types in Foursquare. A personalized score for each neighborhood is generated. A [web app](https://rate-neighborhoods-app.herokuapp.com/) version is hosted on Heroku. 
 <br clear="right"/> 
@@ -19,7 +19,7 @@ problems.
 <br />
 <br />
 
-2. [Prediction of Churn](https://mariellesp.github.io/Churn-DecisionTree/)
+[Prediction of Churn](https://mariellesp.github.io/Churn-DecisionTree/)
 <br />
          <img src="./images/tree3.png" align="left" width="500">
 
