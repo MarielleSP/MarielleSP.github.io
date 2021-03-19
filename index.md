@@ -16,6 +16,7 @@ problems.
 
 [Rate Neighborhoods based on User Preferences](https://mariellesp.github.io/Rate-Neighborhoods/)   
          <img src="./images/ratings02.PNG" align="right" width="200">
+
    Completed as a capstone project for the IBM Data Science Professional Certificate. The preferences in neighborhood features for two users are given. Each neighborhood in New Orleans, LA, USA is evalated based on the number of desired venue types in Foursquare. A personalized score for each neighborhood is generated. A [web app](https://rate-neighborhoods-app.herokuapp.com/) version is hosted on Heroku. 
 <br clear="right"/> 
  
