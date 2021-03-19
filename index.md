@@ -19,7 +19,7 @@ problems.
 <br />
 <br />
 
-2. [Prediction of Churn](https://mariellesp.github.io/Churn-DecisionTree/)
+###[Prediction of Churn](https://mariellesp.github.io/Churn-DecisionTree/)
 <br />
          <img src="./images/tree3.png" align="left" width="500">
 
