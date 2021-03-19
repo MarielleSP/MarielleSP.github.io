@@ -26,7 +26,7 @@ problems.
 <br />
          <img src="./images/tree3.png" align="left" width="500">
 
-   Loss of customers (churn) means loss of revenue for businesses. Data on customer demographics, service plan, account information, and churn is obtained for a [telecom company](https://www.kaggle.com/blastchar/telco-customer-churn). Using a decision tree, 3 factors (out of the original 19) are identified as predictive of customer churn: month-to-month contract, high monthly charges, and short tenure with the company. 
+   Loss of customers (churn) means loss of revenue for businesses. Data on customer demographics, service plan, account information, and churn is obtained for a telecom company. Using a decision tree, 3 factors (out of the original 19) are identified as predictive of customer churn: month-to-month contract, high monthly charges, and short tenure with the company. 
 <br clear="left"/> 
 
 <br />
