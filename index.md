@@ -26,7 +26,7 @@ problems.
 [Prediction of Churn](https://mariellesp.github.io/Churn-DecisionTree/) 
          <img src="./images/tree3.png" align="left" width="500">
          
-   Loss of customers (churn) means loss of revenue for businesses. Data on customer demographics, service plan, account information, and churn is obtained for a telecom company. Using a decision tree, 3 factors (out of the original 19) are identified as predictive of customer churn: month-to-month contract, high monthly charges, and short tenure with the company. Random forest and artificial neural network models did not provide additional accuracy. 
+   Loss of customers (churn) means loss of revenue for businesses. Data on customer demographics, service plan, account information, and churn is obtained for a telecom company. Using a decision tree, 3 factors (out of the original 19) are identified as predictive of customer churn. Random forest and artificial neural network models did not provide additional accuracy. 
 
 <br clear="left"/> 
 
